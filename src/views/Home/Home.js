@@ -1,10 +1,14 @@
 import React from 'react'
 import "./Home.css"
 import FoodCard from '../../components/FoodCard/FoodCard'
+import hotpot from "./hot-pot.png"
 
 function Home() {
   return (<>
-   <h1 className='Dhaba-Heading'>भोजन भंडार</h1>
+  <div className='title'>
+   <p className='Dhaba-Heading'>भोजन भंडार</p>
+   <img src={hotpot} className='heading-img'/>
+   </div>
  <div className='Food-card-Container'>
    <FoodCard
    title = "Chiken Biryani"

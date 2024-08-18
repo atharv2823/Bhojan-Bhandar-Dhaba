@@ -1,8 +1,10 @@
+
 .Dhaba-Heading{
     text-align: center;
     font-size: 24px;
-    color: blue;
-    background-color: aqua;
+    color: red;
+    font-weight: bolder;
+    
 }
 *{
     margin: 0;
@@ -14,4 +16,16 @@
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
+}
+.title{
+    display: flex;
+    align-items: center;
+    background-color: aqua;
+    justify-content: center;
+    border-radius: 10px;
+}
+.heading-img{
+    height: 50px;
+    width: 50px;
+    align-items: center;
 }
