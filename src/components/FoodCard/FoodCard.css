@@ -1,0 +1,26 @@
+.foodcard{
+    width: 300px;
+    border: 1px solid black;
+    border-radius: 10px;
+    position: relative;
+}
+.foodcard:hover{
+    transition: 0.3s;
+    box-shadow: 0 0 10px gray;
+    transform: rotate(-1deg);
+}
+.veg-nonveg-img{
+    position: absolute;
+    height: 20px;
+    background-color: white;
+    right: 10px;
+    top: 10px;
+}
+.price{
+    font-weight: bold;
+}
+.food-card-img{
+    width: 100%;
+    object-fit: cover;
+    border-radius: 10px;
+}

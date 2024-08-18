@@ -1,0 +1,17 @@
+.Dhaba-Heading{
+    text-align: center;
+    font-size: 24px;
+    color: blue;
+    background-color: aqua;
+}
+*{
+    margin: 0;
+    padding: 5px;
+}
+.Food-card-Container{
+    margin: 10px;
+    margin-top: 15px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
