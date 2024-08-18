@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6ef61204.css",
+    "main.js": "/static/js/main.e3a0e73c.js",
+    "static/media/hot-pot.png": "/static/media/hot-pot.29285179207de60cb81c.png",
+    "index.html": "/index.html",
+    "main.6ef61204.css.map": "/static/css/main.6ef61204.css.map",
+    "main.e3a0e73c.js.map": "/static/js/main.e3a0e73c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6ef61204.css",
+    "static/js/main.e3a0e73c.js"
+  ]
+}

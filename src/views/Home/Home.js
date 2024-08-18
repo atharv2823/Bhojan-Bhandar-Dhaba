@@ -7,7 +7,7 @@ function Home() {
   return (<>
   <div className='title'>
    <p className='Dhaba-Heading'>भोजन भंडार</p>
-   <img src={hotpot} className='heading-img'/>
+   <img src={hotpot} className='heading-img' alt='logo'/>
    </div>
  <div className='Food-card-Container'>
    <FoodCard
