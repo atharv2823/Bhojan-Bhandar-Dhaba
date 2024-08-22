@@ -7,58 +7,58 @@ const PRODUCTS = [
         title : "Chiken Biryani",
         description :"“Spice up your life with some Chicken Biryani magic! ✨”",
         price : "₹ 150",
-        imgUrl:"https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.dreamstime.com%2Fphotos-images%2Fhandi-chicken-biryani.html&psig=AOvVaw25QzZu7Exdlgz1OXVTr7Ff&ust=1723989428099000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLCPxbOX_IcDFQAAAAAdAAAAABAE",
+        imgUrl:"https://www.licious.in/blog/wp-content/uploads/2023/01/Shutterstock_2047827035.jpg",
         isveg : false
         },
         {
            title : "Pizza",
            description :"“A slice a day keeps the sadness away 🍕😊”",
            price : "₹ 250",
-           imgUrl:"https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Fpremium-ai-image%2Fpizza-with-cold-drink-table_79014166.htm&psig=AOvVaw3xp8KtJHL-4EY8_WUR6teo&ust=1724224719508000&source=images&cd=vfe&opi=89978449&ved=2ahUKEwjy5c_gg4OIAxUPTWwGHUVqC78QjRx6BAgAEBg",
+           imgUrl:"https://img.freepik.com/premium-photo/savory-paneer-tikka-pizza-captured-dark-backdrop-food-photos_908985-42917.jpg",
            isveg : true
         },
         {
            title : "Waradi Thali",
            description :"“Savoring the rich flavors of Maharashtra with this Varadi Thali. 🌶️”",
            price : "₹ 299",
-           imgUrl:"https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.zomato.com%2Fpt%2Fncr%2Fthaal-vaadi-sector-38-noida%2Freviews%3Famp%3D1&psig=AOvVaw2ihqJFhgqDTLC3ujvRMBmo&ust=1723990658540000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMCyou-b_IcDFQAAAAAdAAAAABAE",
+           imgUrl:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJEr_OykWEyv05I20wVVNzVOeTwn9qjXlmkQ&s",
            isveg : true
         },
         {
            title : "Mutton Handi",
            description :"“A pot full of flavor: Mutton Handi magic! 🍲”",
            price : "₹ 850",
-           imgUrl:"https://www.google.com/url?sa=i&url=https%3A%2F%2Fstock.adobe.com%2Fsearch%3Fk%3Dhandi%2Bmutton&psig=AOvVaw2_dOGKX6wF0BKXkOD3cN0j&ust=1723990709206000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJj_uIGc_IcDFQAAAAAdAAAAABAE",
+           imgUrl:"https://t4.ftcdn.net/jpg/06/11/70/43/360_F_611704389_3h6UA692iFCCdWm6LxPtrRhqpEugnSF1.jpg",
            isveg : false
         },
         {
            title : "Burgur",
            description :"“A classic combo: Burgur and love! ❤️”",
            price : "₹ 120",
-           imgUrl:"https://www.google.com/url?sa=i&url=https%3A%2/F%2Fwww.pinterest.com%2Fpin%2F551111111111111&psig=AOvVaw3x6zQ8Q6Q4Q&ust=1724224719508000&source=images&cd=vfe&opi=89978449&ved=2ahUKEwjy5c_gg4OIAxUPTWwGHUVqC78QjRx6BAgAEB",
+           imgUrl:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvrInZmnx_RESLS1cbvtHqQidYZxcBK8SK4A&s",
            isveg : true
      
         },
         {
-              title : "Burgur",
-              description :"“A classic combo: Burgur and love! ❤️”",
-              price : "₹ 120",
-              imgUrl:"https://www.google.com/url?sa=i&url=https%3A%2/F%2Fwww.pinterest.com%2Fpin%2F551111111111111&psig=AOvVaw3x6zQ8Q6Q4Q&ust=1724224719508000&source=images&cd=vfe&opi=89978449&ved=2ahUKEwjy5c_gg4OIAxUPTWwGHUVqC78QjRx6BAgAEB",
+              title : "Masal Dosa",
+              description :"“Masala dosa: The perfect blend of spice, crunch, and satisfaction.”",
+              price : "₹ 90",
+              imgUrl:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAk7Ho-A39sdwnIaUlP_0hA1tA6-k9Z-xT2A&s",
               isveg : true
         
          },
          {
-           title : "Mutton Handi",
-           description :"“A pot full of flavor: Mutton Handi magic! 🍲”",
-           price : "₹ 850",
-           imgUrl:"https://www.google.com/url?sa=i&url=https%3A%2F%2Fstock.adobe.com%2Fsearch%3Fk%3Dhandi%2Bmutton&psig=AOvVaw2_dOGKX6wF0BKXkOD3cN0j&ust=1723990709206000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJj_uIGc_IcDFQAAAAAdAAAAABAE",
+           title : "Chiken Shawarma",
+           description :"“Shawarma: The art of turning meat into magic.”",
+           price : "₹ 120",
+           imgUrl:"https://png.pngtree.com/thumb_back/fw800/background/20240105/pngtree-exquisite-shawarma-kebab-with-savory-sausage-placed-on-a-textured-stone-image_13812945.png",
            isveg : false
         },
         {
-           title : "Mutton Handi",
-           description :"“A pot full of flavor: Mutton Handi magic! 🍲”",
-           price : "₹ 850",
-           imgUrl:"https://www.google.com/url?sa=i&url=https%3A%2F%2Fstock.adobe.com%2Fsearch%3Fk%3Dhandi%2Bmutton&psig=AOvVaw2_dOGKX6wF0BKXkOD3cN0j&ust=1723990709206000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJj_uIGc_IcDFQAAAAAdAAAAABAE",
+           title : "Fish Fry",
+           description :"“Crispy bites that make your taste buds swim with joy”",
+           price : "₹ 220",
+           imgUrl:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZPSq4XAhlmnwuT_PYLrnwKMnFPWtE-nT1cg&s",
            isveg : false
         },
         
