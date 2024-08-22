@@ -22,6 +22,9 @@
     font-weight: bold;
     color: green;
 }
+.food-title{
+    text-align: center;
+}
 .food-card-img{
     width: 100%;
     object-fit: cover;
